@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @jasirkt
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning spring
-- 📫 You can reach me at meetjasir@gmail.com
+- 👀 I’m a Software Engineer at Microsoft
+- 📫 You can reach me at on [linkedin](https://www.linkedin.com/in/jasirkt/) 
