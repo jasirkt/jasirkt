@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @jasirkt
-- 👀 I’m a Software Engineer at Microsoft
+- 👀 I’m a Software Engineer
+- You can learn about me by visiting [jasir.dev](https://jasir.dev)
 - 📫 You can reach me on [linkedin](https://www.linkedin.com/in/jasirkt/) 
